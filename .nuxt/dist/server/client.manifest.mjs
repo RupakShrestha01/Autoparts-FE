@@ -1,0 +1,1 @@
+export { default } from "file:///Users/rupakshrestha/Desktop/Projects/Autoparts-FE/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
