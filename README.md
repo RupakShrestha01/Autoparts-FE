@@ -1,42 +1,34 @@
-# Nuxt 3 Minimal Starter
+## Quick Start
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+First, Open this project folder in your IDE ( We recommend VSCode Application for the best experience) and run the following command in the terminal. Use `Ctrl + `` shortcut to open the integrated terminal on VSCode.
 
-## Setup
-
-Make sure to install the dependencies:
+First, install the project dependencies.
 
 ```bash
-# yarn
-yarn install
-
-# npm
 npm install
-
-# pnpm
-pnpm install
+# or
+yarn
 ```
 
-## Development Server
-
-Start the development server on http://localhost:3000
+Then, run the following command to start the development server.
 
 ```bash
 npm run dev
+# or
+yarn dev
 ```
 
-## Production
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the live server.
 
-Build the application for production:
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-```bash
-npm run build
-```
+## Learn More
 
-Locally preview production build:
+To learn more about Next.js & TailwindCSS, take a look at the following resources:
 
-```bash
-npm run preview
-```
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [TailwindCSS](https://tailwindcss.com/) - CSS Framework Documentation.
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Deploy on Vercel
+
+The easiest way to publish this Template is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js. Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
